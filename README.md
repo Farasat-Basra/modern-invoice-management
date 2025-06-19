@@ -1,6 +1,6 @@
-# InvoicePro - Professional Invoice Generator
+# InvoicePro - Professional Invoice Manager
 
-A modern, frontend-only invoice generator built with Next.js that allows users to create, manage, and download professional PDF invoices without requiring any backend infrastructure.
+A modern, frontend-only invoice manager built with Next.js that allows users to create, manage, and download professional PDF invoices without requiring any backend infrastructure.
 
 ##  Features
 
